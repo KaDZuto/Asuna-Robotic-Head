@@ -1,0 +1,15 @@
+# Blender auto-save and backups
+*.blend1
+*.blend2
+*.blend@
+
+# Large archives exceeding GitHub 100MB limit
+kk_Asuna/asuna.zip
+*.zip
+*.tar.gz
+*.msi
+
+# System and logs
+*.log
+.DS_Store
+Thumbs.db
